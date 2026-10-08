@@ -1,0 +1,9 @@
+{
+  "name": "cloudwatch-docker-monitoring",
+  "version": "1.0.0",
+  "description": "Dockerized web application for CloudWatch monitoring",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
